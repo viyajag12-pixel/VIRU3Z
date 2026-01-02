@@ -1,0 +1,8 @@
+{
+  "name": "Buddi AI: Global Neural Companion",
+  "description": "Your 24/7 multilingual companion for chat, image generation, and cinematic video creation. Powered by Google.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
